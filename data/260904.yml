@@ -1,0 +1,65 @@
+about:
+  description: AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+  license: AGPL-3.0
+  homepage: https://astrbot.app
+  head: 6b84809
+  archived: false
+  latestVersion: v4.28.0-beta.1
+  collectedAt: 2026-09-04T05:00:49Z
+timeline:
+  created: 2022-12-08
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-01
+popularity:
+  star: 39987
+  watcher: 86
+  fork: 2868
+  release: 253
+  contributor: 369
+  pullRequest: 1126
+  issue: 6531
+language:
+  Python: 7431046
+  Vue: 2256413
+  TypeScript: 530929
+  JavaScript: 176944
+  HTML: 31764
+  CSS: 26410
+  SCSS: 18876
+  Shell: 15779
+  Makefile: 1751
+  Dockerfile: 892
+totalLine: 10490804
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 103
+    openPR: 87
+    closedIssue: 73
+    openIssue: 85
+    commit: 111
+  last90d:
+    since: 2026-06-06
+    release: 31
+    mergedPR: 380
+    openPR: 208
+    closedIssue: 347
+    openIssue: 215
+    commit: 432
+  last180d:
+    since: 2026-03-08
+    release: 55
+    mergedPR: 874
+    openPR: 384
+    closedIssue: 1399
+    openIssue: 817
+    commit: 1020
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 1400
+    openPR: 409
+    closedIssue: 3352
+    openIssue: 1028
+    commit: 2111
