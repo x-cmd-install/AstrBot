@@ -1,23 +1,25 @@
 about:
-  description: AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+  description:
+  |
+    AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
   license: AGPL-3.0
   homepage: https://astrbot.app
   head: 6b84809
   archived: false
   latestVersion: v4.28.0-beta.1
-  collectedAt: 2026-09-04T05:00:49Z
+  collectedAt: 2026-09-04T19:53:35Z
 timeline:
   created: 2022-12-08
   lastCommit: 2026-09-04
   lastRelease: 2026-09-01
 popularity:
-  star: 39987
+  star: 40011
   watcher: 86
-  fork: 2868
+  fork: 2872
   release: 253
   contributor: 369
-  pullRequest: 1126
-  issue: 6531
+  pullRequest: 2902
+  issue: 6533
 language:
   Python: 7431046
   Vue: 2256413
@@ -29,37 +31,63 @@ language:
   Shell: 15779
   Makefile: 1751
   Dockerfile: 892
-totalLine: 10490804
+totalBytes: 10490804
 recent:
   last30d:
     since: 2026-08-05
     release: 5
     mergedPR: 103
-    openPR: 87
+    openPR: 93
     closedIssue: 73
-    openIssue: 85
+    openIssue: 86
     commit: 111
+  last60d:
+    since: 2026-07-06
+    release: 11
+    mergedPR: 221
+    openPR: 158
+    closedIssue: 168
+    openIssue: 149
+    commit: 241
   last90d:
     since: 2026-06-06
     release: 31
     mergedPR: 380
-    openPR: 208
+    openPR: 214
     closedIssue: 347
-    openIssue: 215
+    openIssue: 216
     commit: 432
   last180d:
     since: 2026-03-08
     release: 55
     mergedPR: 874
-    openPR: 384
+    openPR: 389
     closedIssue: 1399
-    openIssue: 817
+    openIssue: 818
     commit: 1020
   last360d:
     since: 2025-09-09
     release: 100
     mergedPR: 1400
-    openPR: 409
+    openPR: 414
     closedIssue: 3352
-    openIssue: 1028
+    openIssue: 1029
     commit: 2111
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 1729
+    openPR: 414
+    closedIssue: 5318
+    openIssue: 1071
+    commit: 4349
+total:
+  release: 253
+  mergedPR: 1769
+  openPR: 414
+  closedIssue: 5462
+  openIssue: 1071
+  commit: 5210
+---
+---
+
