@@ -5,18 +5,18 @@ about:
   head: a412146
   archived: false
   latestVersion: "v4.28.0"
-  collectedAt: 2026-09-08T02:51:45Z
+  collectedAt: 2026-09-08T05:34:33Z
 timeline:
   created: 2022-12-08
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 40183
+  star: 40189
   watcher: 87
   fork: 2888
   release: 254
   contributor: 374
-  pullRequest: 2918
+  pullRequest: 2920
   issue: 6538
 language:
   Python: 7467156
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-09
     release: 5
     mergedPR: 97
-    openPR: 90
+    openPR: 92
     closedIssue: 63
     openIssue: 73
     commit: 88
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-10
     release: 11
     mergedPR: 224
-    openPR: 152
+    openPR: 154
     closedIssue: 161
     openIssue: 144
     commit: 236
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-10
     release: 30
     mergedPR: 366
-    openPR: 204
+    openPR: 206
     closedIssue: 323
     openIssue: 209
     commit: 415
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-12
     release: 53
     mergedPR: 850
-    openPR: 366
+    openPR: 367
     closedIssue: 1319
     openIssue: 758
     commit: 946
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-13
     release: 100
     mergedPR: 1405
-    openPR: 410
+    openPR: 411
     closedIssue: 3325
     openIssue: 1027
     commit: 2087
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-18
     release: 100
     mergedPR: 1741
-    openPR: 410
+    openPR: 411
     closedIssue: 5325
     openIssue: 1069
     commit: 4355
 total:
   release: 254
   mergedPR: 1781
-  openPR: 410
+  openPR: 411
   closedIssue: 5469
   openIssue: 1069
   commit: 5222
 ---
 path: /home/runner/.x-repo/github.com/AstrBotDevs/AstrBot
-collectedAt: 2026-09-08T02:51:53Z
+collectedAt: 2026-09-08T05:34:42Z
 loc:
   Python:
     code: 182641
