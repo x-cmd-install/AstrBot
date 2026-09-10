@@ -2,12 +2,12 @@ about:
   description: "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
   license: AGPL-3.0
   homepage: https://astrbot.app
-  head: 6fb50ca
+  head: 8b5f388
   archived: false
   latestVersion: "v4.28.0"
   latestRelease: "v4.28.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:45:12Z
+  collectedAt: 2026-09-10T17:51:05Z
 timeline:
   created: 2022-12-08
   lastCommit: 2026-09-10
@@ -15,99 +15,99 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 40305
+  star: 40335
   watcher: 88
   fork: 2902
   release: 254
-  contributor: 375
-  pullRequest: 2948
-  issue: 6552
+  contributor: 376
+  pullRequest: 2958
+  issue: 6560
 language:
-  Python: 7533775
-  Vue: 2271916
-  TypeScript: 540634
+  Python: 7558593
+  Vue: 2279341
+  TypeScript: 541734
   JavaScript: 192232
   HTML: 31765
-  CSS: 26357
+  CSS: 28251
   SCSS: 19030
   Shell: 15779
   Makefile: 1751
   Dockerfile: 892
-totalBytes: 10634131
+totalBytes: 10669368
 recent:
   last30d:
     since: 2026-08-11
     release: 5
-    mergedPR: 101
-    openPR: 100
-    closedIssue: 62
-    openIssue: 79
-    commit: 98
+    mergedPR: 109
+    openPR: 102
+    closedIssue: 66
+    openIssue: 83
+    commit: 0
   last60d:
     since: 2026-07-12
     release: 11
-    mergedPR: 227
-    openPR: 158
-    closedIssue: 157
-    openIssue: 150
-    commit: 246
+    mergedPR: 235
+    openPR: 160
+    closedIssue: 161
+    openIssue: 154
+    commit: 0
   last90d:
     since: 2026-06-12
     release: 30
-    mergedPR: 374
-    openPR: 213
-    closedIssue: 315
-    openIssue: 210
-    commit: 425
+    mergedPR: 382
+    openPR: 215
+    closedIssue: 319
+    openIssue: 214
+    commit: 0
   last180d:
     since: 2026-03-14
     release: 52
-    mergedPR: 836
-    openPR: 371
-    closedIssue: 1257
-    openIssue: 733
-    commit: 956
+    mergedPR: 844
+    openPR: 372
+    closedIssue: 1261
+    openIssue: 737
+    commit: 0
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 1404
-    openPR: 418
-    closedIssue: 3311
-    openIssue: 1036
-    commit: 2097
+    mergedPR: 1412
+    openPR: 419
+    closedIssue: 3315
+    openIssue: 1040
+    commit: 0
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 1751
-    openPR: 418
-    closedIssue: 5329
-    openIssue: 1078
-    commit: 4364
+    mergedPR: 1759
+    openPR: 419
+    closedIssue: 5333
+    openIssue: 1082
+    commit: 4372
 total:
   release: 254
-  mergedPR: 1791
-  openPR: 418
-  closedIssue: 5474
-  openIssue: 1078
-  commit: 5232
+  mergedPR: 1799
+  openPR: 419
+  closedIssue: 5478
+  openIssue: 1082
+  commit: 5240
 ---
 path: /home/runner/.x-repo/github.com/AstrBotDevs/AstrBot
-collectedAt: 2026-09-10T05:45:22Z
+collectedAt: 2026-09-10T17:51:16Z
 loc:
   Python:
-    code: 184150
-    comments: 3445
-    blanks: 29509
-    files: 690
+    code: 184738
+    comments: 3456
+    blanks: 29575
+    files: 692
   Json:
-    code: 33859
+    code: 33959
     comments: 0
     blanks: 1
     files: 173
   TypeScript:
-    code: 13776
-    comments: 1723
-    blanks: 2324
+    code: 13804
+    comments: 1724
+    blanks: 2326
     files: 65
   Yaml:
     code: 12624
@@ -115,10 +115,10 @@ loc:
     blanks: 2160
     files: 20
   Vue:
-    code: 11916
-    comments: 199
-    blanks: 1017
-    files: 170
+    code: 11772
+    comments: 189
+    blanks: 1021
+    files: 173
   JavaScript:
     code: 5553
     comments: 243
@@ -135,10 +135,10 @@ loc:
     blanks: 84
     files: 5
   Css:
-    code: 243
+    code: 317
     comments: 0
-    blanks: 40
-    files: 1
+    blanks: 55
+    files: 3
   Html:
     code: 145
     comments: 1
@@ -185,10 +185,10 @@ loc:
     blanks: 0
     files: 3
 total:
-  code: 324362
-  comments: 27152
-  blanks: 51679
-  files: 1642
+  code: 325469
+  comments: 27154
+  blanks: 51789
+  files: 1649
 ---
 
 ---
