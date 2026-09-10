@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.28.0"
   latestRelease: "v4.28.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:51:05Z
+  collectedAt: 2026-09-10T23:46:03Z
 timeline:
   created: 2022-12-08
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 40335
+  star: 40338
   watcher: 88
-  fork: 2902
+  fork: 2903
   release: 254
   contributor: 376
   pullRequest: 2958
@@ -42,7 +42,7 @@ recent:
     openPR: 102
     closedIssue: 66
     openIssue: 83
-    commit: 0
+    commit: 106
   last60d:
     since: 2026-07-12
     release: 11
@@ -50,7 +50,7 @@ recent:
     openPR: 160
     closedIssue: 161
     openIssue: 154
-    commit: 0
+    commit: 254
   last90d:
     since: 2026-06-12
     release: 30
@@ -58,7 +58,7 @@ recent:
     openPR: 215
     closedIssue: 319
     openIssue: 214
-    commit: 0
+    commit: 433
   last180d:
     since: 2026-03-14
     release: 52
@@ -66,7 +66,7 @@ recent:
     openPR: 372
     closedIssue: 1261
     openIssue: 737
-    commit: 0
+    commit: 964
   last360d:
     since: 2025-09-15
     release: 100
@@ -74,7 +74,7 @@ recent:
     openPR: 419
     closedIssue: 3315
     openIssue: 1040
-    commit: 0
+    commit: 2105
   last720d:
     since: 2024-09-20
     release: 100
@@ -92,7 +92,7 @@ total:
   commit: 5240
 ---
 path: /home/runner/.x-repo/github.com/AstrBotDevs/AstrBot
-collectedAt: 2026-09-10T17:51:16Z
+collectedAt: 2026-09-10T23:46:12Z
 loc:
   Python:
     code: 184738
