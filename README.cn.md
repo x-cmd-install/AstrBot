@@ -4,7 +4,7 @@
 
 AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
-[![x-cmd/install — AstrBot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/AstrBot.svg?lang=zh)](https://x-cmd.com/install/AstrBot)
+[![x-cmd/install — AstrBot Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/AstrBot.svg?lang=zh)](https://x-cmd.com/install/AstrBot)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install AstrBot
 
 ## 流行度
 
-- **Star**: 40,804 · **Fork**: 2,953 · **开放 issue**: 6,607 · **贡献者**: 385
+- **Star**: 40,881 · **Fork**: 2,965 · **开放 issue**: 6,612 · **贡献者**: 385
 
 ## 累计统计
 
-- **发布数**: 255 · **已合并 PR**: 1845 · **开放 PR**: 448 · **已关闭 issue**: 5518 · **开放 issue**: 1089 · **提交数**: 5285
+- **发布数**: 255 · **已合并 PR**: 1845 · **开放 PR**: 459 · **已关闭 issue**: 5518 · **开放 issue**: 1094 · **提交数**: 5285
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 112 | 113 | 57 | 60 | 101 |
-| last60d | 2026-07-24 | 10 | 237 | 184 | 153 | 136 | 230 |
-| 90d | 2026-06-24 | 18 | 356 | 225 | 269 | 188 | 366 |
-| last180d | 2026-03-26 | 49 | 767 | 355 | 989 | 605 | 871 |
-| 360d | 2025-09-27 | 100 | 1441 | 448 | 3260 | 1043 | 2102 |
-| last720d | 2024-10-02 | 100 | 1804 | 448 | 5370 | 1089 | 4402 |
+| 30d | 2026-08-24 | 4 | 108 | 126 | 53 | 65 | 101 |
+| last60d | 2026-07-25 | 10 | 233 | 195 | 152 | 140 | 230 |
+| 90d | 2026-06-25 | 17 | 351 | 233 | 263 | 190 | 366 |
+| last180d | 2026-03-27 | 49 | 763 | 367 | 975 | 604 | 871 |
+| 360d | 2025-09-28 | 100 | 1437 | 459 | 3253 | 1048 | 2102 |
+| last720d | 2024-10-03 | 100 | 1804 | 459 | 5370 | 1094 | 4402 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ AstrBot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:53:51Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:00:34Z._
