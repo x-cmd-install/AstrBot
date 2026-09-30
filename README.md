@@ -14,14 +14,14 @@ x install AstrBot
 
 ## Code insight
 
-Total: **279,897** lines of code across **1161** files in the top 5 languages.
+Total: **280,595** lines of code across **1162** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 198,093 | 3,668 | 30,941 | 720 |
-| Json | 34,541 | 0 | 5 | 173 |
-| TypeScript | 14,468 | 1,814 | 2,393 | 69 |
-| Yaml | 12,798 | 57 | 2,170 | 20 |
+| Python | 198,236 | 3,668 | 30,948 | 721 |
+| Json | 34,549 | 0 | 5 | 173 |
+| TypeScript | 14,506 | 1,817 | 2,387 | 69 |
+| Yaml | 12,806 | 57 | 2,170 | 20 |
 | Vue | 12,181 | 188 | 1,039 | 179 |
 
 ## Source
@@ -38,22 +38,22 @@ Total: **279,897** lines of code across **1161** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,179 · **Forks**: 2,996 · **Open issues**: 6,625 · **Contributors**: 393
+- **Stars**: 41,231 · **Forks**: 2,998 · **Open issues**: 6,631 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 256 · **Merged PRs**: 1879 · **Open PRs**: 467 · **Closed issues**: 5529 · **Open issues**: 1096 · **Commits**: 5321
+- **Releases**: 256 · **Merged PRs**: 1883 · **Open PRs**: 469 · **Closed issues**: 5531 · **Open issues**: 1100 · **Commits**: 5325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 5 | 117 | 121 | 50 | 54 | 113 |
-| last60d | 2026-07-31 | 10 | 238 | 181 | 144 | 125 | 224 |
-| 90d | 2026-07-01 | 15 | 351 | 237 | 238 | 187 | 369 |
-| last180d | 2026-04-02 | 49 | 762 | 364 | 861 | 533 | 875 |
-| 360d | 2025-10-04 | 100 | 1463 | 467 | 3232 | 1048 | 2119 |
-| last720d | 2024-10-09 | 100 | 1836 | 467 | 5381 | 1096 | 4425 |
+| 30d | 2026-08-31 | 5 | 115 | 120 | 52 | 57 | 117 |
+| last60d | 2026-08-01 | 10 | 235 | 181 | 142 | 127 | 228 |
+| 90d | 2026-07-02 | 15 | 352 | 239 | 235 | 190 | 373 |
+| last180d | 2026-04-03 | 49 | 764 | 366 | 848 | 529 | 879 |
+| 360d | 2025-10-05 | 100 | 1464 | 469 | 3229 | 1052 | 2123 |
+| last720d | 2024-10-10 | 100 | 1840 | 469 | 5383 | 1100 | 4429 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for AstrBot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:31:47Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:25:54Z._
