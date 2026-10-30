@@ -1,0 +1,195 @@
+about:
+  description: "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+  license: AGPL-3.0
+  homepage: https://astrbot.app
+  head: abf6830
+  archived: false
+  latestVersion: "v4.29.3"
+  latestRelease: "v4.29.3"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:34:24Z
+timeline:
+  created: 2022-12-08
+  lastCommit: 2026-10-28
+  lastVersion: 2026-10-24
+  lastRelease: 2026-10-24
+  lastPrerelease: 
+popularity:
+  star: 44873
+  watcher: 94
+  fork: 3296
+  release: 261
+  contributor: 401
+  pullRequest: 3501
+  issue: 6738
+language:
+  Python: 8908692
+  Vue: 2519846
+  TypeScript: 593389
+  JavaScript: 239465
+  HTML: 31508
+  CSS: 30059
+  SCSS: 19543
+  Shell: 15800
+  PowerShell: 8406
+  Makefile: 1751
+  Dockerfile: 1449
+totalBytes: 12369908
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 5
+    mergedPR: 140
+    openPR: 203
+    closedIssue: 93
+    openIssue: 96
+    commit: 134
+  last60d:
+    since: 2026-08-31
+    release: 10
+    mergedPR: 261
+    openPR: 301
+    closedIssue: 161
+    openIssue: 139
+    commit: 267
+  last90d:
+    since: 2026-08-01
+    release: 15
+    mergedPR: 381
+    openPR: 343
+    closedIssue: 265
+    openIssue: 195
+    commit: 379
+  last180d:
+    since: 2026-05-03
+    release: 47
+    mergedPR: 762
+    openPR: 383
+    closedIssue: 815
+    openIssue: 400
+    commit: 842
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 1548
+    openPR: 390
+    closedIssue: 3519
+    openIssue: 700
+    commit: 2109
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 1980
+    openPR: 390
+    closedIssue: 5872
+    openIssue: 717
+    commit: 4569
+total:
+  release: 261
+  mergedPR: 2023
+  openPR: 390
+  closedIssue: 6021
+  openIssue: 717
+  commit: 5469
+---
+path: /home/runner/.x-repo/github.com/AstrBotDevs/AstrBot
+collectedAt: 2026-10-30T06:34:32Z
+loc:
+  Python:
+    code: 216397
+    comments: 3892
+    blanks: 32761
+    files: 759
+  Json:
+    code: 36114
+    comments: 0
+    blanks: 4
+    files: 173
+  TypeScript:
+    code: 14928
+    comments: 1923
+    blanks: 2442
+    files: 76
+  Yaml:
+    code: 13075
+    comments: 57
+    blanks: 2183
+    files: 21
+  Vue:
+    code: 12619
+    comments: 174
+    blanks: 1045
+    files: 187
+  JavaScript:
+    code: 6759
+    comments: 244
+    blanks: 640
+    files: 42
+  Sh:
+    code: 819
+    comments: 46
+    blanks: 93
+    files: 5
+  Sass:
+    code: 790
+    comments: 38
+    blanks: 102
+    files: 16
+  PowerShell:
+    code: 579
+    comments: 30
+    blanks: 53
+    files: 2
+  Css:
+    code: 402
+    comments: 0
+    blanks: 73
+    files: 4
+  Html:
+    code: 143
+    comments: 0
+    blanks: 7
+    files: 5
+  Toml:
+    code: 129
+    comments: 3
+    blanks: 13
+    files: 2
+  Makefile:
+    code: 52
+    comments: 1
+    blanks: 9
+    files: 1
+  Svg:
+    code: 49
+    comments: 0
+    blanks: 0
+    files: 10
+  Dockerfile:
+    code: 35
+    comments: 1
+    blanks: 5
+    files: 1
+  Sql:
+    code: 14
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 21478
+    blanks: 9870
+    files: 457
+  Text:
+    code: 0
+    comments: 834
+    blanks: 0
+    files: 3
+total:
+  code: 369165
+  comments: 30281
+  blanks: 56571
+  files: 1765
+---
+
+---
