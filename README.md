@@ -14,7 +14,7 @@ x install AstrBot
 
 ## Code insight
 
-Total: **314,504** lines of code across **1255** files in the top 5 languages.
+Total: **314,510** lines of code across **1255** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **314,504** lines of code across **1255** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.29.4` (2026-10-31)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-08
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 46,292 · **Forks**: 3,406 · **Open issues**: 6,787 · **Contributors**: 406
+- **Stars**: 46,398 · **Forks**: 3,416 · **Open issues**: 6,793 · **Contributors**: 406
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 2059 · **Open PRs**: 425 · **Closed issues**: 6049 · **Open issues**: 738 · **Commits**: 5503
+- **Releases**: 262 · **Merged PRs**: 2060 · **Open PRs**: 433 · **Closed issues**: 6051 · **Open issues**: 742 · **Commits**: 5504
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 5 | 122 | 213 | 79 | 107 | 130 |
-| last60d | 2026-09-08 | 8 | 272 | 323 | 168 | 160 | 281 |
-| 90d | 2026-08-09 | 13 | 378 | 376 | 250 | 216 | 386 |
-| last180d | 2026-05-11 | 46 | 761 | 417 | 772 | 400 | 852 |
-| 360d | 2025-11-12 | 100 | 1576 | 425 | 3484 | 719 | 2123 |
-| last720d | 2024-11-17 | 100 | 2016 | 425 | 5898 | 738 | 4599 |
+| 30d | 2026-10-09 | 5 | 115 | 214 | 74 | 108 | 97 |
+| last60d | 2026-09-09 | 8 | 266 | 328 | 162 | 162 | 245 |
+| 90d | 2026-08-10 | 13 | 373 | 384 | 251 | 220 | 356 |
+| last180d | 2026-05-12 | 46 | 760 | 425 | 769 | 401 | 812 |
+| 360d | 2025-11-13 | 100 | 1576 | 433 | 3483 | 723 | 2080 |
+| last720d | 2024-11-18 | 100 | 2017 | 433 | 5900 | 742 | 4599 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for AstrBot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:55:09Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:47:56Z._
