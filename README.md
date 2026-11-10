@@ -33,27 +33,27 @@ Total: **324,515** lines of code across **1300** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.29.4` (2026-10-31)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 46,482 · **Forks**: 3,421 · **Open issues**: 6,798 · **Contributors**: 406
+- **Stars**: 46,568 · **Forks**: 3,459 · **Open issues**: 6,801 · **Contributors**: 406
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 2068 · **Open PRs**: 435 · **Closed issues**: 6052 · **Open issues**: 746 · **Commits**: 5512
+- **Releases**: 262 · **Merged PRs**: 2069 · **Open PRs**: 436 · **Closed issues**: 6052 · **Open issues**: 749 · **Commits**: 5513
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 5 | 119 | 212 | 74 | 111 | 105 |
-| last60d | 2026-09-10 | 8 | 265 | 328 | 158 | 162 | 253 |
-| 90d | 2026-08-11 | 13 | 380 | 386 | 246 | 222 | 364 |
-| last180d | 2026-05-13 | 45 | 763 | 425 | 766 | 402 | 820 |
-| 360d | 2025-11-14 | 100 | 1581 | 435 | 3478 | 727 | 2088 |
-| last720d | 2024-11-19 | 100 | 2025 | 435 | 5900 | 746 | 4607 |
+| 30d | 2026-10-11 | 4 | 113 | 210 | 67 | 113 | 106 |
+| last60d | 2026-09-11 | 8 | 264 | 328 | 157 | 164 | 254 |
+| 90d | 2026-08-12 | 13 | 373 | 387 | 243 | 224 | 365 |
+| last180d | 2026-05-14 | 44 | 761 | 427 | 762 | 405 | 821 |
+| 360d | 2025-11-15 | 100 | 1579 | 436 | 3466 | 730 | 2089 |
+| last720d | 2024-11-20 | 100 | 2026 | 436 | 5900 | 749 | 4607 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for AstrBot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:21:03Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:19:30Z._
