@@ -38,22 +38,22 @@ Total: **341,275** lines of code across **1342** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,328 · **Forks**: 3,649 · **Open issues**: 6,852 · **Contributors**: 410
+- **Stars**: 47,378 · **Forks**: 3,655 · **Open issues**: 6,857 · **Contributors**: 410
 
 ## Totals (cumulative)
 
-- **Releases**: 264 · **Merged PRs**: 2132 · **Open PRs**: 524 · **Closed issues**: 6078 · **Open issues**: 774 · **Commits**: 5576
+- **Releases**: 264 · **Merged PRs**: 2132 · **Open PRs**: 535 · **Closed issues**: 6079 · **Open issues**: 778 · **Commits**: 5576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 130 | 247 | 56 | 112 | 107 |
-| last60d | 2026-09-23 | 9 | 283 | 371 | 155 | 178 | 251 |
-| 90d | 2026-08-24 | 13 | 399 | 455 | 223 | 229 | 390 |
-| last180d | 2026-05-26 | 44 | 790 | 512 | 709 | 406 | 830 |
-| 360d | 2025-11-27 | 100 | 1617 | 524 | 3368 | 754 | 2044 |
-| last720d | 2024-12-02 | 100 | 2088 | 524 | 5924 | 774 | 4660 |
+| 30d | 2026-10-24 | 4 | 121 | 251 | 54 | 110 | 107 |
+| last60d | 2026-09-24 | 9 | 280 | 381 | 154 | 183 | 251 |
+| 90d | 2026-08-25 | 13 | 394 | 466 | 219 | 233 | 390 |
+| last180d | 2026-05-27 | 44 | 786 | 523 | 693 | 409 | 830 |
+| 360d | 2025-11-28 | 100 | 1614 | 535 | 3362 | 758 | 2044 |
+| last720d | 2024-12-03 | 100 | 2088 | 535 | 5925 | 778 | 4656 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for AstrBot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:26:23Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:19:46Z._
